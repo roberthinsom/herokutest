@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+  <meta name="google-site-verification" content="q055qk8tv49sus0kFqdwjnjNrH0N0qWbh81toCtD6Vs" />
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Harnessing the Power of Heroku: A Comprehensive Guide</title>
